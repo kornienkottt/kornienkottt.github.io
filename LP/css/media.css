@@ -1,0 +1,151 @@
+@media  (max-width: 992px) {
+    header, footer {
+		min-height: 700px;
+	}
+	section h2 {
+		font-size: 28px;
+	}
+	p {
+		font-size: 16px;
+	}
+	section {
+		padding: 30px 0;
+	}
+	.footer_text h2 {
+		font-size: 35px;
+		margin-bottom: 30px;
+	}
+	.left, .right {
+		margin: 30px 0;
+	}
+	.footer_text {
+		display: flex;
+		flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 768px) {
+	header {
+		min-height: 580px;
+	}
+	h2  {
+		text-align: center;
+		margin-bottom: 20px;
+		margin-left: 0;
+	}
+	p {
+		font-size: 22px;
+		text-align: justify;
+		margin-left: 0;
+	}
+    .header_text ul {
+		display: flex;
+		padding-left: 0;
+		justify-content: space-between;
+ 	}
+	.header_text {
+		display: flex;
+		flex-direction: column;
+	}
+	.header_text {
+		margin-top: 130px;
+	}
+    .header_text ul li {
+		margin: 0px 8px;
+	}
+	section {
+		padding: 30px 0;
+	}
+	.pics {
+		margin-top: 10px;
+	}
+	.left, .right {
+		margin-bottom: 20px;
+	}
+	footer {
+		min-height: 580px;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.footer_header h2 {
+		font-size: 37px;
+	}
+	.footer_links {
+		margin-top: 90px;
+	}
+	.footer_links ul {
+		display: inline-flex;
+	}
+	.footer_header {
+		margin-top: 0;
+		padding: 0 15px;
+		text-align: center;
+	}
+	.footer_links h2 {
+		margin-top: 0;
+	}
+    
+}
+
+	@media  (max-width: 576px) {
+		header {
+			min-height: 400px;
+		}
+		.header_text {
+			margin-top: 85px;
+		}
+		.header_text h1 {
+			font-size: 40px;
+		}
+		.header_text h3 {
+			font-size: 23px;
+			margin-bottom: 34px;
+		}
+		.header_text ul {
+			justify-content: space-evenly;
+		}
+		section h2 {
+			font-size: 22px;
+		}
+		section p {
+			font-size: 18px;
+			margin-left: 0;
+			text-align: justify;
+		}
+		section {
+			padding: 0 0 20px;
+		}
+		.left, .right {
+			margin: 0;
+		}
+		.right img, .left img {
+			width: 85%;
+			display: block;
+			margin: auto;
+		}
+		.pics {
+			margin-top: 10px;
+		}
+		footer {
+			min-height: 400px;
+		}
+		.footer_text h2 {
+			font-size: 21px;
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
