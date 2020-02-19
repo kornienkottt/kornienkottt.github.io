@@ -196,6 +196,7 @@ nav {
 }
 .about {
     max-width: 340px;
+    margin-left: 10px;
 }
 .more {
     margin: auto;
