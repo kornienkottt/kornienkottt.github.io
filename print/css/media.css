@@ -459,12 +459,14 @@
     }
     .kyivstar::before {
         width: 28px;
+        height: 27px;
         top: 5px;
         left: -37px;
     
     }
     .life::before {
         width: 28px;
+        height: 27px;
         top: 5px;
         left: -37px;
     }
