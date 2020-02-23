@@ -233,7 +233,7 @@ ul.dropdown {
 .kyivstar::before {
     display: block;
     content: '';
-    width: 25px;
+    width: 28px;
     height: 25px;
     background: url(../images/kyivstar.png) no-repeat;
     position: absolute;
@@ -244,7 +244,7 @@ ul.dropdown {
 .life::before {
     display: block;
     content: '';
-    width: 25px;
+    width: 28px;
     height: 25px;
     background: url(../images/life.png) no-repeat;
     position: absolute;

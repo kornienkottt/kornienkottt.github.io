@@ -452,7 +452,22 @@
         right: -20px;
         top: 6px;
     }
+    .vodafone::before {
+        top: 5px;
+        left: -37px;
     
+    }
+    .kyivstar::before {
+        width: 28px;
+        top: 5px;
+        left: -37px;
+    
+    }
+    .life::before {
+        width: 28px;
+        top: 5px;
+        left: -37px;
+    }
 .promo-info h1 {
     font-size: 26px;
     line-height: 35px;
