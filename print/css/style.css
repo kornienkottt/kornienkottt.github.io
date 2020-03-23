@@ -845,6 +845,9 @@ ul.dropdown-footer {
     border-radius: 50%;
     cursor: pointer;
  } 
+ .call-info a:hover {
+    color: #ffffff;
+}
  .call-info::before {
     display: block;
     content: '';
@@ -855,9 +858,6 @@ ul.dropdown-footer {
     top: 16px;
     left: 40px;
     color: white;
-}
-.call-info a:hover {
-    color: blue;
 }
 .footer-call {
     position: absolute;
