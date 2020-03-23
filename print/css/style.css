@@ -305,7 +305,7 @@ ul.dropdown {
     background-color: #E8EDF2;
     position: absolute;
     right: -20px;
-    margin-right: 20px;
+    margin-right: 11px;
     top: 21px;
 } 
 .menu_item:last-child::after{ 
